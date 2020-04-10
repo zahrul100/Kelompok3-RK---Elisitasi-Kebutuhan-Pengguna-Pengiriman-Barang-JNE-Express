@@ -1,4 +1,4 @@
-Kami membuat pernyataan kuisioner sejumlah 15 pernyataan, kemudian user diminta untuk mengisi pernyataan berdasarkan tingkat kebutuhan user untuk setiap kebutuhan sistem jasa pengiriman barang. User mengisi dari tingkat kebutuhan user dari range 1-3. untuk link kuisioner terdapat di https://intip.in/kuisionerJNE
+Kami membuat pernyataan kuisioner sejumlah 15 pernyataan, kemudian user diminta untuk mengisi pernyataan berdasarkan tingkat kebutuhan user untuk setiap kebutuhan sistem jasa pengiriman barang JNE Express. User mengisi dari tingkat kebutuhan user dari range 1-3. untuk link kuisioner terdapat di https://intip.in/kuisionerJNE
 
 Berikut ini adalah nama narasumber yang bertindak end user adalah sebagai berikut :
 1. Wasilatul Dewi Ningrum (05111740000004)
