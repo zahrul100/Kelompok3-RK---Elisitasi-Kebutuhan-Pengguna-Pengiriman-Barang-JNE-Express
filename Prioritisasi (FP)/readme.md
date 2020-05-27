@@ -12,4 +12,4 @@ Link Form Kuisioner untuk developer : https://intip.in/kuisionerdeveloper
 
 Link Form Kuisioner untuk Stakeholder : https://intip.in/kuisionerstakeholder
 
-Untuk List Kebutuhan ada di Folder Form Kuisioner yaitu "List Pernyataan Kuisioner.pdf"
+
